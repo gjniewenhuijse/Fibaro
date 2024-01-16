@@ -1,6 +1,0 @@
-{
-  "name": "lib",
-  "isMain": false,
-  "isOpen": false,
-  "content": "_VERSION_LIB = \"1.1\"\r\n_VERSIONDATE_LIB = \"13.1.2024\"\r\n\r\nfunction QuickApp:test(iInput)\r\n    self:debug(_VERSION_LIB..' input: '..iInput)\r\nend"
-}
